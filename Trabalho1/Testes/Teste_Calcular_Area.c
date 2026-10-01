@@ -23,14 +23,7 @@ int calcula_base(int x1, int x2){
     }
 
 
+    int calcula_area (int base, int altura){
+        return int area = base * altura;
+    }
 
-int main(){
-    int SEx = 1, SEy = 3;
-    int IDx = 3, IDy = 1;
-    printf("%d ", calcula_base(SEx, IDx) * calcula_altura(SEy, IDy));
-
-
-
-
-return 0;
-}
