@@ -31,6 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="../Trabalho1/Testes/Teste_Calcular_Area.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Trabalho1/Testes/Teste_Detectar_Objeto_Area.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste_calcula_area.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
