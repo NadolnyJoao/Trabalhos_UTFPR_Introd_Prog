@@ -31,6 +31,16 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="t1-2939800.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trabalho1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trabalho1.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
