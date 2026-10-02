@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1790104600 source:/home/nadolny/Documents/PROJETOS/Trabalhos_UTFPR_Introd_Prog/Trabalho12939800/main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho1.h"
+
+1790104648 /home/nadolny/Documents/PROJETOS/Trabalhos_UTFPR_Introd_Prog/Trabalho12939800/trabalho1.h
+
+1790104630 source:/home/nadolny/Documents/PROJETOS/Trabalhos_UTFPR_Introd_Prog/Trabalho12939800/trabalho1.c
+	<stdio.h>
+	<stdlib.h>
+
