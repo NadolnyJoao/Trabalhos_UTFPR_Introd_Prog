@@ -24,6 +24,7 @@ int calcula_base(int x1, int x2){
 
 
     int calcula_area (int base, int altura){
-        return int area = base * altura;
+        int area = base * altura;
+        return area;
     }
 
