@@ -1,3 +1,0 @@
-/home/nadolny/Projetos/Trabalhos_UTFPR_Introd_Prog/Trabalho1Testes/build/CMakeFiles/trabalho_testes.dir
-/home/nadolny/Projetos/Trabalhos_UTFPR_Introd_Prog/Trabalho1Testes/build/CMakeFiles/edit_cache.dir
-/home/nadolny/Projetos/Trabalhos_UTFPR_Introd_Prog/Trabalho1Testes/build/CMakeFiles/rebuild_cache.dir
