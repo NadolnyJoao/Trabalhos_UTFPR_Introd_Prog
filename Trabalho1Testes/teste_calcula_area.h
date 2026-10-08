@@ -1,3 +1,5 @@
+// Definição das coordenadas do retângulo principal (Superior Esquerdo e
+// Inferior Direito)
 #define XSE 3
 #define YSE 2
 #define XID 5
